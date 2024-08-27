@@ -22,10 +22,6 @@ Ce projet est basé sur le template [Portfolio](https://astro.build/themes/detai
 
 Vous pouvez visiter mon portfolio à l'adresse suivante : [Mon Portfolio](https://zakariakreifeur.netlify.app/)
 
-## 📝 Contribuer
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request si vous avez des suggestions d'amélioration ou des idées.
-
 ## 📧 Contact
 
 Si vous souhaitez en savoir plus sur moi ou sur ce projet, n'hésitez pas à me [contacter](mailto:zakaria.kreifeur@live.fr).

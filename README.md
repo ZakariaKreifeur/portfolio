@@ -1,30 +1,35 @@
-# Astro Starter Kit: Portfolio
+# Mon Portfolio
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+Bienvenue sur le dépôt GitHub de mon portfolio personnel ! Ce projet a été conçu en utilisant [Astro](https://astro.build/), un framework moderne qui permet de créer des sites web performants et faciles à maintenir. J'ai utilisé le template [Portfolio](https://astro.build/themes/details/portfolio/) pour structurer et présenter mes compétences, projets, et réalisations.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## 🚀 Fonctionnalités
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Présentation de mes compétences :** Découvrez mes compétences techniques et mes soft skills, ainsi que les technologies avec lesquelles j'ai travaillé.
+- **Projets récents :** Un aperçu de quelques exemples de mon travail, mettant en lumière mes expériences passées.
+- **Responsive Design :** Un design adaptatif qui s'ajuste parfaitement aux écrans de toutes tailles, pour une expérience utilisateur optimale.
+- **Optimisation des performances :** Grâce à Astro, ce site est conçu pour être rapide et performant.
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## 🛠️ Technologies utilisées
 
-## 🧞 Commands
+- **Astro:** Framework de génération statique pour des sites rapides et modernes.
+- **HTML/CSS:** Structuration et stylisation des pages.
 
-All commands are run from the root of the project, from a terminal:
+## 🎨 Template
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Ce projet est basé sur le template [Portfolio](https://astro.build/themes/details/portfolio/) disponible sur le site officiel d'Astro. Ce template m'a permis de rapidement démarrer et personnaliser le site selon mes besoins.
 
-## 👀 Want to learn more?
+## 🔗 Lien vers le site déployé
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Vous pouvez visiter mon portfolio à l'adresse suivante : [Mon Portfolio](https://zakariakreifeur.netlify.app/)
+
+## 📝 Contribuer
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request si vous avez des suggestions d'amélioration ou des idées.
+
+## 📧 Contact
+
+Si vous souhaitez en savoir plus sur moi ou sur ce projet, n'hésitez pas à me [contacter](mailto:zakaria.kreifeur@live.fr).
+
+---
+
+Merci d'avoir consulté mon portfolio ! J'espère que vous apprécierez mon travail.
